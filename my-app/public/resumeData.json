@@ -1,0 +1,102 @@
+{
+    "main": {
+        "name": "Christopher L Garcia",
+        "occupation": "Full-Stack Web Developer",
+        "description": "As a new and upcoming Full-Stack Web Developer I plan on using all my past experiences from Sales and Distribution to further my abilities in web development. Being an analytical thinker makes me a great problem solver and communicator allowing me to work great on solo projects and team projects. ",
+        "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHcilfBMmkGKA/profile-displayphoto-shrink_100_100/0?e=1588204800&v=beta&t=KuR6_rrvOf8z3Og_qUgNl4fOInbi4YJnjMznClHxQ68",
+        "bio": "My Name is Christopher Garcia and Im new and upcoming Full-Stack Web Developer. I was born and raised in Brownsville Texas but Ive called Austin home for over 3 years. Living in the Austin area Ive witnessed the technology world explode so I decided to follow my passion for computers. I enrolled into a computer coding bootcamp hosted by the University of Texas in Austin. With the skills Ive learned I plan on using all my past experiences from Sales and Distribution to further my newly learned skills in web development. I am an analytical thinker making me a great problem solver and communicator allowing me to work great on solo projects and team projects.",
+        "contactmessage": "Now that you've seen my work send me a message maybe we can work together. ",
+        "email": "Chrislg420@gmail.com",
+        "phone": "2103853432",
+        "address": {
+            "street": "3344 Lauren Nicole Ln",
+            "city": "Round Rock",
+            "state": "Texas",
+            "zip": "78665"
+        },
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "http://timbakerdev.com",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/christopher-garcia-3226a0197/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/krislg420",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "University of Texas in Austin",
+                "degree": "Coding Master",
+                "graduated": "March 2020",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            },
+            {
+                "school": "Homer Hanna High School",
+                "degree": "High School Diploma",
+                "graduated": "June 2003"
+            }
+        ],
+        "work": [
+            {
+                "company": "Nestle USA Inc.",
+                "title": "Territory Sales Manager ",
+                "years": "December 2019 - November 2019",
+                "description": " Closely monitor sales & distribution results and execution against annual plans & contract terms within my designated territory. Consistently look for areas of new growth for the Office business, ensuring 100% alignment with the internal distribution team and distributor partners. Maintain a direct relationship with my high volume and national customers and proactively work with them to increase Nestle products sales. Consistently attend local networking events to build local relationships and partnerships in order to secure new account growth and adoption of the Nestle brand. Serve as the local expert on my territory, knowing when new accounts are opening, who the decision makers are, what drives their decisions, etc. "
+            },
+            {
+                "company": "Schwans Food Company",
+                "title": "Territory Sales Manager",
+                "years": "August 2014 - December 2019",
+                "description": "Drive Sales and distribution by utilizing company data and insights to influence top key Decision Makers within my region. Manage the performance and execution of all sales reps and merchandisers in the South Texas Region by working collaboratively with them and providing assistance in challenges and opportunities in the field. Maximize sales and efficiency by taking the leadership role in my district area. Work collaboratively with the sales, merchandising and distributing teams to effectively deliver top results for our customer (Walmart, HEB and Target). Successfully sale and merchandise new items and promotional initiatives"
+            }
+        ],
+        "portfolio": {
+            "projects": [
+                {
+                    "title": "Note Taker",
+                    "category": "Express Backend",
+                    "image": "![346C689B-B377-423D-9F0A-02C4265FCB68_1_105_c](https://user-images.githubusercontent.com/57952065/73227606-a414f680-4139-11ea-80a0-3ea5437ca202.jpeg)",
+                    "url": "https://krislg420.github.io/NoteTaker/"
+                },
+                {
+                    "title": "BootCamp Video Library",
+                    "category": "Computer Coding Videos",
+                    "image": "![Getting Started](public/img/bcvl-screenshot.png)",
+                    "url": "https://thawing-cove-88374.herokuapp.com/"
+                },
+                {
+                    "title": "Team Generator",
+                    "category": "Command Line Application",
+                    "image": " ![2515E996-A097-4A91-9C45-7C01C482162C_1_105_c](https://user-images.githubusercontent.com/57952065/72952501-b2d56500-3d57-11ea-9fab-44ef9d5758ca.jpeg)",
+                    "url": "https://krislg420.github.io/TeamGen/"
+                },
+                {
+                    "title": "Revelry",
+                    "category": "Event Finder",
+                    "image": "![](assets/images/sketch.jpg)",
+                    "url": "https://phoenix-99hp.github.io/Project1/"
+                },
+                {
+                    "title": "Password Generator",
+                    "category": "JavaScript",
+                    "image": "![098EF40A-3F8C-4F9F-9C8C-80BF5905EB80_1_105_c](https://user-images.githubusercontent.com/57952065/74580390-5128a500-4f69-11ea-8bbf-45aa2b7d5e4f.jpeg)",
+                    "url": "https://krislg420.github.io/PassGen/"
+                },
+                {
+                    "title": "Fitness Tracker",
+                    "category": "MongoDB",
+                    "image": "![098EF40A-3F8C-4F9F-9C8C-80BF5905EB80_1_105_c](https://user-images.githubusercontent.com/57952065/74580390-5128a500-4f69-11ea-8bbf-45aa2b7d5e4f.jpeg)",
+                    "url": "https://ancient-coast-46849.herokuapp.com/"
+                }
+            ]
+        }
+    }
+}
