@@ -10,7 +10,7 @@ class Contact extends Component {
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
+    //   var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
@@ -70,7 +70,7 @@ class Contact extends Component {
 
            <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
-                  <i className="fa fa-check"></i>Your message was sent, thank you!<br />
+                  <i className="fa fa-check"></i>Your message was sent, Thank You!<br />
 				   </div>
            </div>
 
