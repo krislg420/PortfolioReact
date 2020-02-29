@@ -63,37 +63,37 @@
                 {
                     "title": "Note Taker",
                     "category": "Express Backend",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://krislg420.github.io/NoteTaker/"
                 },
                 {
                     "title": "BootCamp Video Library",
                     "category": "Computer Coding Videos",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://thawing-cove-88374.herokuapp.com/"
                 },
                 {
                     "title": "Team Generator",
                     "category": "Command Line Application",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://krislg420.github.io/TeamGen/"
                 },
                 {
                     "title": "Revelry",
                     "category": "Event Finder",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://phoenix-99hp.github.io/Project1/"
                 },
                 {
                     "title": "Password Generator",
                     "category": "JavaScript",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://krislg420.github.io/PassGen/"
                 },
                 {
                     "title": "Fitness Tracker",
                     "category": "MongoDB",
-                    "image": "canadian-wanderlust.jpg",
+                    "image": "austin-texas-skyline-state-flag-ftr.jpeg",
                     "url": "https://ancient-coast-46849.herokuapp.com/"
                 }
             ]
