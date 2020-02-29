@@ -34,7 +34,7 @@
         "education": [
             {
                 "school": "University of Texas in Austin",
-                "degree": "Coding Master",
+                "degree": "Full-Stack Web Developer",
                 "graduated": "March 2020",
                 "description": "Experience with HTML, CSS, JavaScript, JQuery, Node, Express, and React. I also have experience with restful web services(API) and experience in MySQL and Mongo Databases."
             },
@@ -63,37 +63,37 @@
                 {
                     "title": "Note Taker",
                     "category": "Express Backend",
-                    "image": "profilepic.jpeg",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://krislg420.github.io/NoteTaker/"
                 },
                 {
                     "title": "BootCamp Video Library",
                     "category": "Computer Coding Videos",
-                    "image": "![Getting Started](public/img/bcvl-screenshot.png)",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://thawing-cove-88374.herokuapp.com/"
                 },
                 {
                     "title": "Team Generator",
                     "category": "Command Line Application",
-                    "image": " ![2515E996-A097-4A91-9C45-7C01C482162C_1_105_c](https://user-images.githubusercontent.com/57952065/72952501-b2d56500-3d57-11ea-9fab-44ef9d5758ca.jpeg)",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://krislg420.github.io/TeamGen/"
                 },
                 {
                     "title": "Revelry",
                     "category": "Event Finder",
-                    "image": "![](assets/images/sketch.jpg)",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://phoenix-99hp.github.io/Project1/"
                 },
                 {
                     "title": "Password Generator",
                     "category": "JavaScript",
-                    "image": "![098EF40A-3F8C-4F9F-9C8C-80BF5905EB80_1_105_c](https://user-images.githubusercontent.com/57952065/74580390-5128a500-4f69-11ea-8bbf-45aa2b7d5e4f.jpeg)",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://krislg420.github.io/PassGen/"
                 },
                 {
                     "title": "Fitness Tracker",
                     "category": "MongoDB",
-                    "image": "![098EF40A-3F8C-4F9F-9C8C-80BF5905EB80_1_105_c](https://user-images.githubusercontent.com/57952065/74580390-5128a500-4f69-11ea-8bbf-45aa2b7d5e4f.jpeg)",
+                    "image": "canadian-wanderlust.jpg",
                     "url": "https://ancient-coast-46849.herokuapp.com/"
                 }
             ]
